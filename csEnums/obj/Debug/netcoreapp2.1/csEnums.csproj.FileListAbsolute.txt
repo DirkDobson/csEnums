@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/bin/Debug/netcoreapp2.1/csEnums.deps.json
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/bin/Debug/netcoreapp2.1/csEnums.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/bin/Debug/netcoreapp2.1/csEnums.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/bin/Debug/netcoreapp2.1/csEnums.dll
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/bin/Debug/netcoreapp2.1/csEnums.pdb
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/obj/Debug/netcoreapp2.1/csEnums.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/obj/Debug/netcoreapp2.1/csEnums.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/obj/Debug/netcoreapp2.1/csEnums.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/obj/Debug/netcoreapp2.1/csEnums.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/obj/Debug/netcoreapp2.1/csEnums.dll
+/Users/dirkvancouver/Desktop/Projects/csEnums/csEnums/obj/Debug/netcoreapp2.1/csEnums.pdb
