@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C21F6CF8-1ED7-4019-8D51-EF635E7B1A14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csEnums/Program.cs">
+    <Files>
+      <File FileName="csEnums/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.csEnums PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
